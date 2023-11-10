@@ -1,1 +1,1 @@
-print("My git: https://github.com/DedAlexevich/HomeWork.git ")
+github = "https://github.com/DedAlexevich/MyHomeWork"
