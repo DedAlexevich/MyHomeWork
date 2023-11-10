@@ -1,1 +1,1 @@
-github = "https://github.com/DedAlexevich/MyHomeWork"
+github = "https://github.com/DedAlexevich/MyHomeWork.git"
